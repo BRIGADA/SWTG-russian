@@ -1,0 +1,116 @@
+﻿[TitleMenu]
+NewGame=New Game
+Options=Options
+Exit=Exit Game
+ConfirmExit=Are you sure you want to exit?
+
+[PauseMenu]
+Resume=Resume Game
+Title=End Game
+Options=Options
+ConfirmReset=Are you sure you want to end the game?
+
+[OptionsMenu]
+Game=Game
+Video=Display
+Audio=Audio
+Controls=Controls
+Language=Language
+About=About
+Back=Back
+
+[GameOptionsMenu]
+Back=Back
+ConfirmChanges=Would you like to save the changes you have made?
+
+[VideoMenu]
+Resolution=Resolution
+Windowing=Windowing
+Antialias=Anti-aliasing
+Windowing0=Windowed
+Windowing1=Fullscreen
+Windowing2=Borderless Fullscreen
+Windowing3=Borderless Floating
+Antialias0=None
+Antialias1=FXAA Low
+Antialias2=FXAA Medium
+Antialias3=FXAA High
+Antialias4=FXAA Ultra
+VSync=Vertical Sync
+Brightness=Adjust Brightness
+Tate=Rotation
+TateNone=0°
+TateLeft=270°
+TateRight=90°
+Tate180=180°
+On=On
+Off=Off
+Back=Back
+ConfirmChanges=Would you like to save the changes you have made?
+
+[AudioMenu]
+MasterVolume=Master Volume
+VolumeSFX=Sound Volume
+VolumeBGM=Music Volume
+Back=Back
+ConfirmChanges=Would you like to save the changes you have made?
+
+[ControlsMenu]
+Bindings=Bindings
+Mouse=Mouse
+Joysticks=Controllers
+Back=Back
+
+[MouseMenu]
+MouseSpeed=Mouse Speed
+LockCursor=Lock Cursor
+On=On
+Off=Off
+Back=Back
+ConfirmChanges=Would you like to save the changes you have made?
+
+[BrightnessMenu]
+Brightness=Brightness
+Back=Back
+ConfirmChanges=Would you like to save the changes you have made?
+
+[JoysticksMenu]
+Devices=Available Devices
+None=None
+Selected=[SELECTED]
+Back=Back
+
+[ControlGroupsMenu]
+Groups=Groups
+Controls=Controls
+Reset=Reset to Defaults
+Clear=Clear All
+Back=Back
+ConfirmResetControls=Are you sure you want to reset all controls?
+ConfirmClearControls=Are you sure you want to clear all controls?
+CannotBind=These controls cannot be changed.
+ControlsHeader=%1: %2
+
+[BindingsMenu]
+HowTo=Choose an input for control "%s"\n  or Esc to cancel\n  or Backspace to clear bindings
+
+[AboutMenu]
+PlaceholderText=This is placeholder About text.
+Back=Back
+
+[ConfirmationMenu]
+Yes=Yes
+No=No
+Cancel=Cancel
+OK=OK
+
+[TextEntryMenu]
+Accept=Accept
+Cancel=Cancel
+
+[LanguageMenu]
+Help=Help
+Export=Export Strings
+Back=Back
+Exported=Exported string tables to\n%s
+ExportHelp=Want to help translate Super Win the Game into more languages?\n\nClick the 'Export Strings' button below to output all the game's string table files.\n\nPlace these in a new folder alongside the 'English' folder that is generated, and the game will detect these the next time you play.\n\nThe string tables consist of key/value pairs in the form of 'Key=Value'. The key should not be changed, only the value.\n\nFiles should be saved in UTF-8 format. Most Latin and Cyrillic characters are supported.\n\nIf you are working on a translation and would like it to be included in the official build, please contact kyle.pittman@minorkeygames.com.\n\nThank you!\n\n--Kyle

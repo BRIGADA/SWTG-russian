@@ -1,0 +1,31 @@
+﻿FPS=FPS
+RM_Rec=(REC)
+RM_Play=(PLAY)
+Confirm=Press %s to skip
+
+[D3DInitWarnings]
+Error=Direct3D Initialization Error
+Result=Unable to proceed.
+Header=The following issues were detected during Direct3D initialization:
+Footer=This message can be disabled by setting ShowInitWarnings to false in the config file.
+HWVert=Hardware vertex processing unsupported. Software vertex processing will be used. Performance may be adversely affected.
+MRTBits=MRT independent bit depths not supported.
+MRTBlend=MRT post-pixel shader blending not supported.
+VS20=Vertex Shader 2.0 support not detected. Some shaders may not display correctly.
+PS30=Pixel Shader 3.0 support not detected. Some shaders may not display correctly.
+PresInt=Presentation interval not supported.
+NonP2Cond=Non-power-of-two textures conditionally supported. Some textures may not display correctly.
+NonP2=Non-power-of-two textures not supported.
+NonSq=Non-square texture not supported.
+
+[DSoundInitWarnings]
+Error=DirectSound Initialization Error
+Result=Unable to proceed.
+Header=The following issues were detected during DirectSound initialization:
+Footer=This message can be disabled by setting ShowInitWarnings to false in the config file.
+
+[DialogHints]
+Hours=%02d:
+Minutes=%02d:
+Seconds=%02d
+Millisecs=.%03d

@@ -1,0 +1,183 @@
+﻿[CampaignMenu]
+PrevPage=Prev Page
+NextPage=Next Page
+Back=Back
+Select=Select a Campaign
+
+[ValkyrieTitleMenu]
+Continue=Continue
+NewGame=Start a New Game
+LoadGame=Load Game
+Options=Options
+Exit=Exit Game
+ConfirmExit=Are you sure you want to exit?
+ConfirmNewGame=This will erase any existing save data.\nAre you sure you want to start a new game?
+PressStart=Press %s to begin
+
+[TitleMenu]
+Continue=Continue
+Campaign=Campaign
+TotalTime=Play Time
+LastTime=Last Played
+DateFormat=MMMM dd',' yyyy', '
+TimeFormat=hh':'mm tt
+CampaignDesc=%s (v%d.%d)\n\n    by %s\n    %s\n\n%s
+
+[OptionsMenu]
+CRT=CRT Simulation
+Anaglyph=Anaglyph 3D
+Credits=Credits
+
+[GameOptions]
+CRTSim=CRT Simulation
+CRTTuner_Shape=Adjust Size and Shape
+CRTTuner_Color=Adjust Color
+CRTTuner_Lighting=Adjust Lighting
+Anaglyph3D=Anaglyph 3D
+EyeSwap=Color Swap
+Reset=Reset All
+OverscanPercent=Overscan
+ShowBorder=Show Monitor Border
+BorderBrightness=Border Brightness
+LightBrightness=Glare Intensity
+AltDownJump=Down Jump
+ShowSaveIcon=Show Saving Icon
+DialogBoxes=Dialog Box Color
+ShowPrompts=Show Button Prompts
+ShowMinimap=Show Minimap
+
+On=On
+Off=Off
+DJ_Std=Press Down
+DJ_Alt=Hold Down, Press Jump
+DB_Black=Black
+DB_BackColor=Background
+
+[AudioMenu]
+Reverb=Reverb
+On=On
+Off=Off
+
+[DemoIdleMenu]
+Prompt=Resume Demo
+Countdown=Restarting in %d seconds...
+
+[PauseMenu]
+LastSave=Last save was %1 ago %2
+AtCheckpoint=at a checkpoint
+AtEntry=when entering this room
+
+[ValkyrieCRTMenu]
+ConfirmReset=This will reset all CRT settings. Are you sure?
+
+[CreditsMenu]
+Back=Back
+Line1A=Super Win the Game
+Line1B=by J. Kyle Pittman
+Line2A=Key art
+Line2B=by Kale Menges
+Line3A=Minor Key Games is
+Line3B=David Pittman
+Line3C=J. Kyle Pittman
+Line4A=Special thanks to
+Line4B=Stephanie Pittman
+Line4C=David Didier Massé
+Line4D=Евгений Кутьин
+
+[CRTTunerMenu]
+FOV=FOV
+FOVDesc=The field of view of the camera.\nAffects the perceived curvature of the screen.
+Overscan=Overscan
+OverscanDesc=The size of the image projected onto the screen.
+Sharp=Sharpness
+SharpDesc=The strength of horizontal unsharp filtering.\nCan compensate for fuzziness introduced by NTSC Scanlines.
+Pers=Persistence
+PersDesc=The total persistence of the previous frame.\nProduces motion blur trails.\nNote that this effect is framerate-dependent.
+Bleed=Bleeding
+BleedDesc=The intensity of horizontal bleeding from the previous frame.\nAlso scaled by Persistence.
+Dim=Edge Dimming
+DimDesc=The amount of dimming applied around the edges of the screen and frame.
+Sat=Saturation
+SatDesc=The amount of color saturation in the scene.
+Bloom=Bloom
+BloomDesc=The total amount of bloom applied across the entire scene.
+BloomPower=Bloom Power
+BloomPowerDesc=A non-linear scale on bloom.\nHigher values prevent dark colors from blooming.
+Environ=Environmental noise
+EnvironDesc=Amount of scene reflection on glass.
+Refl=Edge Reflection
+ReflDesc=The amount of reflection from the game scene on the frame.
+Barrel=Barrel Distortion
+BarrelDesc=The amount of barrel distortion applied to the game scene.\nCan reduce apparent screen curvature at high FOVs.
+NTSC=NTSC Scanlines
+NTSCDesc=The amount of per-pixel NTSC scanline filtering.\nIntroduces spatial color artifacts and flicker.
+NTSCBlend=NTSC Blending
+NTSCBlendDesc=Temporal blending of NTSC scanlines.\nReduces or removes flicker.\n(When vertical sync is disabled, this is automatically 100%.)
+NTSCLUTBlend=NTSC Palette
+NTSCLUTBlendDesc=Intensity of the NTSC color palette defined by the Tint/I/Q values.
+LightPosX=Light Position (X)
+LightPosXDesc=The horizontal position of the scene light.
+LightPosY=Light Position (Y)
+LightPosYDesc=The vertical position of the scene light.
+DiffuseLight=Diffuse Light
+DiffuseLightDesc=The amount of diffuse (non-reflective) light in the scene.
+SpecularLight=Specular Light
+SpecularLightDesc=The amount of reflected light shown on the screen and frame.
+SpecularPower=Specular Power
+SpecularPowerDesc=The size of the specular highlights on the screen and frame.
+FresnelLight=Rim Light
+FresnelLightDesc=The amount of rim lighting on the screen and frame.
+Tint=Tint
+TintDesc=The tint of the NTSC color palette.
+IScalar=Tint I
+IScalarDesc=Tint tuning along the I axis.\nRelative to the Q axis.
+QScalar=Tint Q
+QScalarDesc=Tint tuning along the Q axis.\nRelative to the I axis.
+PixelAspectRatio=Pixel Ratio
+PixelAspectRatioDesc=The aspect ratio of the pixels in the game scene.\nUsed to simulate the wider (8:7) pixels of old home video game consoles.
+BorderBrightness=Border Brightness
+BorderBrightnessDesc=The diffuse (non-reflective) brightness of the screen frame.
+ScanBright=Scanline Brightness
+ScanBrightDesc=An additive brightness value applied to scanlines.\nUsed to compensate for the darkening caused by the scanline filter.
+ScanOpacity=Scanline Intensity
+ScanOpacityDesc=The intensity of the scanline filter.
+
+[AnaglyphMenu]
+ConfirmReset=This will reset all anaglyph 3D settings. Are you sure?
+Desat=Desaturation
+DesatDesc=Reduces color intensity to reduce variation in brightness between each eye.
+Bright=Brightness
+BrightDesc=Increases gamma to compensate for darkening due to lenses.
+RedTint=Red Tint
+RedTintDesc=Adjusts the tint of the red channel to match the red lens.
+BlueTint=Blue Tint
+BlueTintDesc=Adjusts the tint of the blue channel to match the blue lens.
+Dim=Background Dimming
+DimDesc=Reduces the brightness of background to make characters and environments stand out.
+
+[Loading]
+Loading=Loading...
+Okay=OK
+MinimapWarning=Warning:\n\nThis file was saved in an earlier version of Super Win the Game.\n\nThe in-game map will not show regions that have already been explored until they are visited again.\n\nSorry for the inconvenience.
+
+[LeaderboardMenu]
+Title=%course - %mode
+ModeGlobal=Global Rankings
+ModeGlobalUser=Your Ranking
+ModeFriends=Friends' Rankings
+Requesting=Requesting leaderboard entries...
+NoEntries=No leaderboard entries found.
+PrevPage=Prev Page
+NextPage=Next Page
+PrevMode=Prev Mode
+NextMode=Next Mode
+Back=Back
+ConfirmRaceGhost=Race against this player ghost?
+PersonalBest=Personal Best
+
+[Leaderboards]
+OldArcadia=Old Arcadia
+Gallery=The King's Gallery
+Bonehoard=The Bonehoard
+Dreamscape=Dreamscape Nightmare
+LegacyCaves=Caverns of Legacy

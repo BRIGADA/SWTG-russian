@@ -1,0 +1,18 @@
+﻿Gameplay=Side View
+Overworld=Map View
+
+[Gameplay]
+MoveLeft=Walk Left
+MoveRight=Walk Right
+Jump=Jump
+JumpDown=Jump Down
+Interact=Read/Talk
+Enter=Enter Door
+Status=Status Screen
+FullMap=Open Map
+
+[Overworld]
+MoveNorth=Walk North
+MoveSouth=Walk South
+MoveEast=Walk East
+MoveWest=Walk West

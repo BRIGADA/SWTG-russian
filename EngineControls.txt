@@ -1,0 +1,26 @@
+﻿General=General
+Utility=Utility
+Menus=Menus
+VisOnly=VisOnly
+
+[General]
+Pause=Pause
+
+[Utility]
+OpenConsole=Open Console
+Screenshot=Save Screenshot
+DeviceRecognition=Device Recognition
+
+[Menus]
+NavUp=Navigate Up
+NavDown=Navigate Down
+NavLeft=Navigate Left
+NavRight=Navigate Right
+NavNext=Navigate to Next
+Accept=Accept
+Cancel=Cancel
+Click=Click
+PrevTab=Previous Tab
+NextTab=Next Tab
+PageUp=Page Up
+PageDown=Page Down

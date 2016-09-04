@@ -1,0 +1,87 @@
+﻿[Status]
+Empty=<img>stat:empty<img>
+Keys=<img>stat:keys<img> × [keys:%02d]
+SmCubes=<img>stat:smcubes<img> × [smcubes:%02d]
+BgCubes=<img>stat:bgcubes<img> × [bgcubes:%01d]
+RedAura=<img>stat:redaura<img>
+BlueAura=<img>stat:blueaura<img>
+SwimSuit=<img>stat:swimsuit<img>
+ToxicSuit=<img>stat:toxicsuit<img>
+Badge=<img>stat:badge<img>
+Mask=<img>stat:mask<img>
+Boots=<img>stat:boots<img>
+Gloves=<img>stat:gloves<img>
+MasterKey=<img>stat:mkey<img>
+ArcPass=<img>stat:arcpass<img>
+StyxPass=<img>stat:styxpass<img>
+Necklace=<img>stat:necklace<img>
+
+[Speedrun]
+Retry=RESTART COURSE
+RetryConfirm=THIS WILL RETURN YOU TO THE START OF THE COURSE AND FORFEIT YOUR CURRENT RUN. ARE YOU SURE?
+Exit=EXIT COURSE
+ExitConfirm=THIS WILL EXIT THE COURSE AND FORFEIT YOUR CURRENT RUN. ARE YOU SURE?
+Yes=YES
+No=NO
+Return=RETURN
+
+[FullMap]
+TotalGems=TOTAL <img>stat:smcubes<img>: [smcubes_total:%03d] / [smcubes_max:%03d]
+LocalGems=LOCAL <img>stat:smcubes<img>: [smcubes_loc_coll:%02d] / [smcubes_loc_total:%02d]
+LocalTitle=[loc_title]
+
+[Collections]
+DesertRuins=DESERT RUINS
+FireRealm=LAIR OF THE HOLLOW KING
+IceCrossing=FROSTBITE PASS
+IceWorld=GLACIAL PALACE
+LakewoodDungeon=LAKEWOOD DUNGEON
+Skyworld=SKY PILLARS
+StyxCavesA=A HOLE IN THE WORLD
+StyxCavesB=EVERY FLEETING MEMORY
+StyxCavesC=WELCOME OBLIVION
+StyxCavesD=NEVER FADES TO GRAY
+StyxCavesE=THE LAST HURRAH
+StyxCavesF=THIEVES' LANDING
+StyxCavesG=UNCERTAINTY
+Subcon=SUBCON
+Subsubcon=HOUSE OF BAFFLE
+Subterranea=SUBTERRANEAN WATERWAYS
+ArcTower=ARCADIAN'S TOWER
+AstTower=STARLIGHT TERRACE
+CavesA=DEEP ELM PASS
+CavesE=HIGHBORNE CAVERN
+CavesG=ERROL'S ROAD
+CavesK=CATACOMBS OF HOPE
+CavesB=NORTHEAST NOOK
+CavesD=MIDLAND NOOK
+CavesI=FIRST ARC OF FIRE
+CavesJ=SECOND ARC OF FIRE
+CavesL=THE FOURTH CORNER
+CavesC=LOST KEY CAVES
+CavesH=GLACIAL SHELF
+CavesF=SOUTHWEST NOOK
+DesertSprawlA=ARCADIAN'S CACHE
+DesertSprawlB=PINCER ISLAND
+DesertSprawlC=JONAH'S PERCH
+DesertTown=REVOLVER CROSSING
+ForestA=STILLNESS
+ForestB=MASHER WOODS
+ForestC=SYLVAN PATH
+GrassA=REVOLVER BRIDGE
+GrassB=LAKEWOOD BRIDGE
+GrassC=SOUTH BRIDGE
+GrassD=NORTH BRIDGE
+SnowTown=FOUR CORNERS LODGE
+SwampLake=BASIN RUNOFF
+SwampTown=DEEP ELM BASIN
+StyxTown=UNDERWORLD HOSTEL
+Lakewood=TOWN OF LAKEWOOD
+Stemmons=STEMMONS COMMUNITY
+FishingVillage=FISHING VILLAGE
+IceCave=HIGGINS HOVEL
+SpeedrunOldArcadia=OLD ARCADIA
+SpeedrunGallery=THE KING'S GALLERY
+SpeedrunBonehoard=THE BONEHOARD
+SpeedrunDreamscape=DREAMSCAPE
+SpeedrunLegacyCaves=CAVERNS OF LEGACY

@@ -1,0 +1,23 @@
+﻿Autoglottonym=[YOUR LANGUAGE HERE]
+SplashText=Localization provided by [YOUR NAME HERE]
+
+[InitialSetup]
+Caption=%s Setup
+VideoOpts=Video options
+ScreenRes=Screen resolution
+Windowing=Windowing mode
+Antialias=Anti-aliasing
+VSync=Vertical Sync
+MiscOpts=Misc. options
+UploadStats=Upload anonymous stats
+OnceOnly=(Only on first launch)
+AutoPatch=Automatically check for updates
+Windowing0=Windowed
+Windowing1=Fullscreen
+Windowing2=Borderless Fullscreen Window
+Windowing3=Borderless Floating Window
+Antialias0=None
+Antialias1=FXAA Low
+Antialias2=FXAA Medium
+Antialias3=FXAA High
+Antialias4=FXAA Ultra
