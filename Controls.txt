@@ -1,18 +1,18 @@
-﻿Gameplay=Side View
-Overworld=Map View
+﻿Gameplay=Вид сбоку
+Overworld=Вид карты
 
 [Gameplay]
-MoveLeft=Walk Left
-MoveRight=Walk Right
-Jump=Jump
-JumpDown=Jump Down
-Interact=Read/Talk
-Enter=Enter Door
-Status=Status Screen
-FullMap=Open Map
+MoveLeft=Направо
+MoveRight=Налево
+Jump=Прыжок
+JumpDown=Спыгнуть
+Interact=Читать / Говорить
+Enter=Войти в дверь
+Status=Экран статуса
+FullMap=Открыть карту
 
 [Overworld]
-MoveNorth=Walk North
-MoveSouth=Walk South
-MoveEast=Walk East
-MoveWest=Walk West
+MoveNorth=Идти на север
+MoveSouth=Идти на юг
+MoveEast=Идти на восток
+MoveWest=Идти на запад
