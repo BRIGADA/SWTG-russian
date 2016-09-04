@@ -40,23 +40,23 @@ OverscanPercent=Оверскан
 ShowBorder=Показывать границу монитора
 BorderBrightness=Яркость границы
 LightBrightness=Glare Intensity
-AltDownJump=Прижок вниз
+AltDownJump=Спрыгнуть
 ShowSaveIcon=Показывать иконку сохранения
-DialogBoxes=Цвет диалогового орна
+DialogBoxes=Цвет диалогового окна
 ShowPrompts=Показывать клавиши подсказок
 ShowMinimap=Показывать мини-карту
 
-On=Вкл
-Off=Выкл
-DJ_Std=Нажать вниз
-DJ_Alt=Зажать вниз, нажать прыжок
-DB_Black=Чёрный
-DB_BackColor=Цвета фона
+On=вкл
+Off=выкл
+DJ_Std=нажать вниз
+DJ_Alt=зажать вниз, нажать прыжок
+DB_Black=чёрный
+DB_BackColor=цвета фона
 
 [AudioMenu]
 Reverb=Реверберация
-On=Вкл
-Off=Выкл
+On=вкл
+Off=выкл
 
 [DemoIdleMenu]
 Prompt=Resume Demo

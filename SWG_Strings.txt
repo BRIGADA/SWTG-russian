@@ -196,9 +196,9 @@ String0008=I MEAN, YOU DON'T HAVE TO...
 String0000=HELLO HELLO! WELCOME TO THE FANTABULOUS...
 String0001=~~~HALL OF SPEEDRUNS~~~
 String0002=GOTTA GO FAST.
-String0003=HEY HEY! WELCOME BACK.
-String0004=THE KING'S GALLERY
-String0005=THIS GALLERY HAS BEEN CLOSED TO THE PUBLIC EVER SINCE IT WAS FLOODED WITH LAVA.
+String0003=ХЕЙ-ХЕЙ! ДОБРО ПОЖАЛОВАТЬ НАЗАД!
+String0004=КОРОЛЕВСКАЯ ГАЛЕРЕЯ
+String0005=ЭТА ГАЛЕРЕЯ ЗАКРЫТА ДЛЯ ПУБЛИКИ ПОСЛЕ ЗАТОПЛЕНИЯ ЛАВОЙ.
 String0006=DREAMSCAPE NIGHTMARE
 String0007=YOU ARE GETTING VERY SLEEPY. NOW LET'S TAKE A LOOK INSIDE YOUR SUBCONSCIOUS...
 String0008=THE BONEHOARD
@@ -523,12 +523,12 @@ String0012=NOT TELLING!
 String0013=KYEH KYEH KYEH!!
 
 [14d6571a]
-String0000=THE KING'S GALLERY
+String0000=КОРОЛЕВСКАЯ ГАЛЛЕРЕЯ
 String0001=DREAMSCAPE NIGHTMARE
 String0002=THE BONEHOARD
-String0003=OLD ARCADIA
-String0004=CAVERNS OF LEGACY
-String0005=VIEW RECORDS
+String0003=СТАРАЯ АРКАДИЯ
+String0004=ПЕЩЕРА НАСЛЕДИЯ
+String0005=ПРОСМОТР РЕКОРДОВ
 
 [62eabbf9]
 String0000=AH, I SEE YOU HAVE A MAP!
@@ -1064,19 +1064,19 @@ String0000=I HAD A DREAM THAT YOU WOULD BE OKAY.
 String0001=PLEASE DON'T PROVE ME WRONG.
 
 [15ee7d34]
-String0000=WELCOME TO THE SPEEDRUN COURSE!
-String0001=THE CLOCK WILL START RUNNING ONCE YOU ENTER THE PORTAL.
-String0002=GOOD LUCK!
+String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
+String0002=УДАЧИ!
 
 [0cb1f7cf]
-String0000=WELCOME TO THE SPEEDRUN COURSE!
-String0001=THE CLOCK WILL START RUNNING ONCE YOU ENTER THE PORTAL.
-String0002=GOOD LUCK!
+String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
+String0002=УДАЧИ!
 
 [31654a7f]
-String0000=WELCOME TO THE SPEEDRUN COURSE!
-String0001=THE CLOCK WILL START RUNNING ONCE YOU ENTER THE PORTAL.
-String0002=GOOD LUCK!
+String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
+String0002=УДАЧИ!
 
 [5eebfad7]
 String0000=WE BURIED EVERYTHING, ALL OUR SECRETS AND SORROWS.
@@ -1150,15 +1150,15 @@ String0000=THERE WAS A TALLY MARK HERE. IT'S GONE NOW.
 String0000=GOSH.
 
 [65efdf52]
-String0000=WELCOME TO THE SPEEDRUN COURSE!
-String0001=THE CLOCK WILL START RUNNING ONCE YOU ENTER THE PORTAL.
-String0002=GOOD LUCK!
+String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
+String0002=УДАЧИ!
 
 [793b230b]
 String0000=I'D RATHER OBSERVE THAN STRUCTURE A NARRATIVE.
 
 [7e6dfaa4]
-String0000=WELCOME TO THE SPEEDRUN COURSE!
-String0001=THE CLOCK WILL START RUNNING ONCE YOU ENTER THE PORTAL.
-String0002=GOOD LUCK!
+String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
+String0002=УДАЧИ!
 
