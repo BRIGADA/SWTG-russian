@@ -1,5 +1,5 @@
-﻿Autoglottonym=[YOUR LANGUAGE HERE]
-SplashText=Localization provided by [YOUR NAME HERE]
+﻿Autoglottonym=Русский
+SplashText=Локализация by BRIGADA
 
 [InitialSetup]
 Caption=%s Setup
