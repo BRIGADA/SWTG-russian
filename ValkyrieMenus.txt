@@ -1,62 +1,62 @@
 ﻿[CampaignMenu]
-PrevPage=Prev Page
-NextPage=Next Page
-Back=Back
-Select=Select a Campaign
+PrevPage=Пред. страница
+NextPage=След. страница
+Back=Назад
+Select=Выбор кампании
 
 [ValkyrieTitleMenu]
-Continue=Continue
-NewGame=Start a New Game
-LoadGame=Load Game
-Options=Options
-Exit=Exit Game
-ConfirmExit=Are you sure you want to exit?
-ConfirmNewGame=This will erase any existing save data.\nAre you sure you want to start a new game?
-PressStart=Press %s to begin
+Continue=Продолжить
+NewGame=Новая игра
+LoadGame=Загрузить
+Options=Параметры
+Exit=Выход
+ConfirmExit=Вы действительно хотите выйти?
+ConfirmNewGame=Это удалит все существующие сохранения.\nВы действительно хотите начать новую игру?
+PressStart=Нажмите %s для начала
 
 [TitleMenu]
-Continue=Continue
-Campaign=Campaign
-TotalTime=Play Time
+Continue=Продолжить
+Campaign=Кампания
+TotalTime=Игровое время
 LastTime=Last Played
 DateFormat=MMMM dd',' yyyy', '
 TimeFormat=hh':'mm tt
 CampaignDesc=%s (v%d.%d)\n\n    by %s\n    %s\n\n%s
 
 [OptionsMenu]
-CRT=CRT Simulation
-Anaglyph=Anaglyph 3D
-Credits=Credits
+CRT=Симуляция ЭЛТ
+Anaglyph=Анаглиф 3D
+Credits=Авторы
 
 [GameOptions]
-CRTSim=CRT Simulation
-CRTTuner_Shape=Adjust Size and Shape
-CRTTuner_Color=Adjust Color
-CRTTuner_Lighting=Adjust Lighting
-Anaglyph3D=Anaglyph 3D
-EyeSwap=Color Swap
-Reset=Reset All
-OverscanPercent=Overscan
-ShowBorder=Show Monitor Border
-BorderBrightness=Border Brightness
+CRTSim=Симуляция ЭЛТ
+CRTTuner_Shape=Регулировка размера и формы
+CRTTuner_Color=Регулировка цвета
+CRTTuner_Lighting=Регулировка освещения
+Anaglyph3D=Анаглиф 3D
+EyeSwap=Поменять цвета местами
+Reset=Сброс
+OverscanPercent=Оверскан
+ShowBorder=Показывать границу монитора
+BorderBrightness=Яркость границы
 LightBrightness=Glare Intensity
-AltDownJump=Down Jump
-ShowSaveIcon=Show Saving Icon
-DialogBoxes=Dialog Box Color
-ShowPrompts=Show Button Prompts
-ShowMinimap=Show Minimap
+AltDownJump=Прижок вниз
+ShowSaveIcon=Показывать иконку сохранения
+DialogBoxes=Цвет диалогового орна
+ShowPrompts=Показывать клавиши подсказок
+ShowMinimap=Показывать мини-карту
 
-On=On
-Off=Off
-DJ_Std=Press Down
-DJ_Alt=Hold Down, Press Jump
-DB_Black=Black
-DB_BackColor=Background
+On=Вкл
+Off=Выкл
+DJ_Std=Нажать вниз
+DJ_Alt=Зажать вниз, нажать прыжок
+DB_Black=Чёрный
+DB_BackColor=Цвета фона
 
 [AudioMenu]
-Reverb=Reverb
-On=On
-Off=Off
+Reverb=Реверберация
+On=Вкл
+Off=Выкл
 
 [DemoIdleMenu]
 Prompt=Resume Demo
@@ -68,10 +68,10 @@ AtCheckpoint=at a checkpoint
 AtEntry=when entering this room
 
 [ValkyrieCRTMenu]
-ConfirmReset=This will reset all CRT settings. Are you sure?
+ConfirmReset=Это сбросит все настройки ЭЛТ. Вы уверены?
 
 [CreditsMenu]
-Back=Back
+Back=Назад
 Line1A=Super Win the Game
 Line1B=by J. Kyle Pittman
 Line2A=Key art
@@ -85,17 +85,17 @@ Line4C=David Didier Massé
 Line4D=Евгений Кутьин
 
 [CRTTunerMenu]
-FOV=FOV
-FOVDesc=The field of view of the camera.\nAffects the perceived curvature of the screen.
-Overscan=Overscan
-OverscanDesc=The size of the image projected onto the screen.
-Sharp=Sharpness
-SharpDesc=The strength of horizontal unsharp filtering.\nCan compensate for fuzziness introduced by NTSC Scanlines.
-Pers=Persistence
-PersDesc=The total persistence of the previous frame.\nProduces motion blur trails.\nNote that this effect is framerate-dependent.
+FOV=Поле зрения
+FOVDesc=Поле зрения камеры.\nВлияет на воспринимаемую кривизну экрана.
+Overscan=Оверскан
+OverscanDesc=Размер изображения, проецируемого на экран.
+Sharp=Острота
+SharpDesc=Величина горизонтальной фильтрации нечёткости.\nМожет компенсировать нечёткость, вводимую скан-линиями NTSC.
+Pers=Устойчивость
+PersDesc=Общая устойчивость предыдущего кадра.\nПриводит к появлению следов при движении.\nОбратите внимание, этот эффект зависит от частоты кадров.
 Bleed=Bleeding
 BleedDesc=The intensity of horizontal bleeding from the previous frame.\nAlso scaled by Persistence.
-Dim=Edge Dimming
+Dim=Затемнение границ
 DimDesc=The amount of dimming applied around the edges of the screen and frame.
 Sat=Saturation
 SatDesc=The amount of color saturation in the scene.
@@ -156,24 +156,24 @@ Dim=Background Dimming
 DimDesc=Reduces the brightness of background to make characters and environments stand out.
 
 [Loading]
-Loading=Loading...
+Loading=Загрузка...
 Okay=OK
 MinimapWarning=Warning:\n\nThis file was saved in an earlier version of Super Win the Game.\n\nThe in-game map will not show regions that have already been explored until they are visited again.\n\nSorry for the inconvenience.
 
 [LeaderboardMenu]
 Title=%course - %mode
-ModeGlobal=Global Rankings
+ModeGlobal=Глобальный ранг
 ModeGlobalUser=Your Ranking
 ModeFriends=Friends' Rankings
 Requesting=Requesting leaderboard entries...
 NoEntries=No leaderboard entries found.
-PrevPage=Prev Page
-NextPage=Next Page
-PrevMode=Prev Mode
-NextMode=Next Mode
-Back=Back
+PrevPage=Пред. страница
+NextPage=След. страница
+PrevMode=Пред. режим
+NextMode=След. режим
+Back=Назад
 ConfirmRaceGhost=Race against this player ghost?
-PersonalBest=Personal Best
+PersonalBest=Персональный рекорд
 
 [Leaderboards]
 OldArcadia=Old Arcadia
