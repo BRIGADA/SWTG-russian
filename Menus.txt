@@ -1,116 +1,116 @@
 ﻿[TitleMenu]
-NewGame=New Game
-Options=Options
-Exit=Exit Game
-ConfirmExit=Are you sure you want to exit?
+NewGame=Новая игра
+Options=Параметры
+Exit=Выход
+ConfirmExit=Вы действительно хотите выйти?
 
 [PauseMenu]
-Resume=Resume Game
-Title=End Game
-Options=Options
-ConfirmReset=Are you sure you want to end the game?
+Resume=Продолжить
+Title=Завершить игру
+Options=Параметры
+ConfirmReset=Вы действительно хотите завершить игру?
 
 [OptionsMenu]
-Game=Game
-Video=Display
-Audio=Audio
-Controls=Controls
-Language=Language
-About=About
-Back=Back
+Game=Игра
+Video=Видео
+Audio=Аудио
+Controls=Управление
+Language=Язык
+About=Об игре
+Back=Назад
 
 [GameOptionsMenu]
-Back=Back
-ConfirmChanges=Would you like to save the changes you have made?
+Back=Назад
+ConfirmChanges=Вы хотите сохранить сделанные изменения?
 
 [VideoMenu]
-Resolution=Resolution
-Windowing=Windowing
-Antialias=Anti-aliasing
-Windowing0=Windowed
-Windowing1=Fullscreen
-Windowing2=Borderless Fullscreen
-Windowing3=Borderless Floating
-Antialias0=None
-Antialias1=FXAA Low
-Antialias2=FXAA Medium
-Antialias3=FXAA High
-Antialias4=FXAA Ultra
-VSync=Vertical Sync
-Brightness=Adjust Brightness
-Tate=Rotation
+Resolution=Разрешение
+Windowing=Режим
+Antialias=Сглаживание
+Windowing0=Оконный
+Windowing1=Полноэкранный
+Windowing2=Безрамочный полноэкранный
+Windowing3=Безрамочный плавающий
+Antialias0=Нет
+Antialias1=FXAA низко
+Antialias2=FXAA средне
+Antialias3=FXAA высоко
+Antialias4=FXAA ультра
+VSync=Вертикальная синхронизация
+Brightness=Регулировка яркости
+Tate=Поворот
 TateNone=0°
 TateLeft=270°
 TateRight=90°
 Tate180=180°
-On=On
-Off=Off
-Back=Back
-ConfirmChanges=Would you like to save the changes you have made?
+On=Вкл
+Off=Выкл
+Back=Назад
+ConfirmChanges=Вы хотите сохранить сделанные изменения?
 
 [AudioMenu]
-MasterVolume=Master Volume
-VolumeSFX=Sound Volume
-VolumeBGM=Music Volume
-Back=Back
-ConfirmChanges=Would you like to save the changes you have made?
+MasterVolume=Общая громкость
+VolumeSFX=Громкость звука
+VolumeBGM=Громкость музыки
+Back=Назад
+ConfirmChanges=Вы хотите сохранить сделанные изменения?
 
 [ControlsMenu]
-Bindings=Bindings
-Mouse=Mouse
-Joysticks=Controllers
-Back=Back
+Bindings=Назначения
+Mouse=Мышь
+Joysticks=Контроллеры
+Back=Назад
 
 [MouseMenu]
-MouseSpeed=Mouse Speed
-LockCursor=Lock Cursor
-On=On
-Off=Off
-Back=Back
-ConfirmChanges=Would you like to save the changes you have made?
+MouseSpeed=Скорость мышь
+LockCursor=Захват курсора
+On=Вкл
+Off=Выкл
+Back=Назад
+ConfirmChanges=Вы хотите сохранить сделанные изменения?
 
 [BrightnessMenu]
-Brightness=Brightness
-Back=Back
-ConfirmChanges=Would you like to save the changes you have made?
+Brightness=Яркость
+Back=Назад
+ConfirmChanges=Вы хотите сохранить сделанные изменения?
 
 [JoysticksMenu]
-Devices=Available Devices
-None=None
-Selected=[SELECTED]
-Back=Back
+Devices=Доступные устройства
+None=Нет
+Selected=[ВЫБРАНО]
+Back=Назад
 
 [ControlGroupsMenu]
-Groups=Groups
-Controls=Controls
-Reset=Reset to Defaults
-Clear=Clear All
-Back=Back
-ConfirmResetControls=Are you sure you want to reset all controls?
-ConfirmClearControls=Are you sure you want to clear all controls?
-CannotBind=These controls cannot be changed.
+Groups=Группы
+Controls=Назначения
+Reset=Сброс
+Clear=Очистка
+Back=Назад
+ConfirmResetControls=Вы действительно хотите сбросить все назначения?
+ConfirmClearControls=Вы действительно хотите очистить все назначения?
+CannotBind=Эти назначения нельзя изменить.
 ControlsHeader=%1: %2
 
 [BindingsMenu]
-HowTo=Choose an input for control "%s"\n  or Esc to cancel\n  or Backspace to clear bindings
+HowTo=Выберете клавишу для "%s"\n  или Esc для отмены\n  или Backspace для очистки назначения
 
 [AboutMenu]
 PlaceholderText=This is placeholder About text.
-Back=Back
+Back=Назад
 
 [ConfirmationMenu]
-Yes=Yes
-No=No
-Cancel=Cancel
+Yes=Да
+No=Нет
+Cancel=Отмена
 OK=OK
 
 [TextEntryMenu]
-Accept=Accept
-Cancel=Cancel
+Accept=Принять
+Cancel=Отмена
 
 [LanguageMenu]
-Help=Help
-Export=Export Strings
-Back=Back
-Exported=Exported string tables to\n%s
-ExportHelp=Want to help translate Super Win the Game into more languages?\n\nClick the 'Export Strings' button below to output all the game's string table files.\n\nPlace these in a new folder alongside the 'English' folder that is generated, and the game will detect these the next time you play.\n\nThe string tables consist of key/value pairs in the form of 'Key=Value'. The key should not be changed, only the value.\n\nFiles should be saved in UTF-8 format. Most Latin and Cyrillic characters are supported.\n\nIf you are working on a translation and would like it to be included in the official build, please contact kyle.pittman@minorkeygames.com.\n\nThank you!\n\n--Kyle
+Help=Справка
+Export=Экспорт строк
+Back=Назад
+Exported=Строки экспортированы в\n%s
+ExportHelp=Хотите помочь перевести Super Win the Game на большее количество языков?\n\nНажмите на кнопку 'Экспорт строк' ниже для вывода всех текстов игры в файлы.\n\nПоместите эти файлы туда же, где была сгенерирована папка 'English', и игра обнаружит их при следующем запуске.\n\nТаблицы строк состоят из пар ключ/значение в виде 'ключ=значение'. Ключи не должны изменяться, только значения.\n\nФайлы необходимо сохранять в кодировке UTF-8. Поддерживается большинство символов латинской и кириллической кодировок.\n\nЕсли вы сделаете перевод и захотите чтобы он был включён в официальную сборку, пожалуйста свяжитесь с разработчиком kyle.pittman@minorkeygames.com.\n\nСпасибо вам!\n\n--Kyle
