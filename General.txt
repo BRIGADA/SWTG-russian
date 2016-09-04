@@ -1,28 +1,28 @@
 ﻿FPS=FPS
 RM_Rec=(REC)
 RM_Play=(PLAY)
-Confirm=Press %s to skip
+Confirm=Нажмите %s для пропуска
 
 [D3DInitWarnings]
-Error=Direct3D Initialization Error
-Result=Unable to proceed.
-Header=The following issues were detected during Direct3D initialization:
-Footer=This message can be disabled by setting ShowInitWarnings to false in the config file.
-HWVert=Hardware vertex processing unsupported. Software vertex processing will be used. Performance may be adversely affected.
-MRTBits=MRT independent bit depths not supported.
-MRTBlend=MRT post-pixel shader blending not supported.
-VS20=Vertex Shader 2.0 support not detected. Some shaders may not display correctly.
-PS30=Pixel Shader 3.0 support not detected. Some shaders may not display correctly.
-PresInt=Presentation interval not supported.
-NonP2Cond=Non-power-of-two textures conditionally supported. Some textures may not display correctly.
-NonP2=Non-power-of-two textures not supported.
-NonSq=Non-square texture not supported.
+Error=Ошибка инициализации Direct3D
+Result=Невозможно продолжить.
+Header=Следующие проблемы были обнаружены во время инициализации Direct3D:
+Footer=Это сообщение можно отключить, установив false для параметра ShowInitWarnings в конфигурационном файле.
+HWVert=Аппаратная обработка вершин не поддерживается. Будет использована программная обработка. Может негативно сказаться на производительности.
+MRTBits=Независимая битная глубина MRT не поддерживается.
+MRTBlend=Смешивание пост-пиксельных шейдеров MRT не поддерживается.
+VS20=Поддержка Vertex Shader 2.0 не обнаружена. Некоторые шейдеры могут отображаться некорректно.
+PS30=Поддержка Pixel Shader 3.0 не обнаружена. Некоторые шейдеры могут отображаться некорректно.
+PresInt=Интервал представления не поддерживается.
+NonP2Cond=Текстуры не в степени два условно поддерживаются. Некоторые текстуры могут отображаться некорректно.
+NonP2=Текстуры не в степени два не поддерживаются.
+NonSq=Неквадратные текстуры не поддерживаются.
 
 [DSoundInitWarnings]
-Error=DirectSound Initialization Error
-Result=Unable to proceed.
-Header=The following issues were detected during DirectSound initialization:
-Footer=This message can be disabled by setting ShowInitWarnings to false in the config file.
+Error=Ошибка инициализации DirectSound
+Result=Невозможно продолжить.
+Header=Следующие проблемы были обнаружены во время инициализации DirectSound:
+Footer=Это сообщение можно отключить, установив false для параметра ShowInitWarnings в конфигурационном файле.
 
 [DialogHints]
 Hours=%02d:
