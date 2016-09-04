@@ -17,21 +17,21 @@ StyxPass=<img>stat:styxpass<img>
 Necklace=<img>stat:necklace<img>
 
 [Speedrun]
-Retry=RESTART COURSE
-RetryConfirm=THIS WILL RETURN YOU TO THE START OF THE COURSE AND FORFEIT YOUR CURRENT RUN. ARE YOU SURE?
-Exit=EXIT COURSE
-ExitConfirm=THIS WILL EXIT THE COURSE AND FORFEIT YOUR CURRENT RUN. ARE YOU SURE?
-Yes=YES
-No=NO
-Return=RETURN
+Retry=РЕСТАРТ КУРСА
+RetryConfirm=ЭТО ВЕРНЁТ ВАС К НАЧАЛУ КУРСА И ВЫ ЛИШИТЕСЬ РЕЗУЛЬТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
+Exit=ВЫЙТИ ИЗ КУРСА
+ExitConfirm=ВЫ ВЫЙДЕТЕ ИЗ КУРСА И ЛИШИТЕСЬ РЕЗУЛЬТАТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
+Yes=ДА
+No=НЕТ
+Return=ВЕРНУТЬСЯ
 
 [FullMap]
-TotalGems=TOTAL <img>stat:smcubes<img>: [smcubes_total:%03d] / [smcubes_max:%03d]
-LocalGems=LOCAL <img>stat:smcubes<img>: [smcubes_loc_coll:%02d] / [smcubes_loc_total:%02d]
+TotalGems=ВСЕГО <img>stat:smcubes<img>: [smcubes_total:%03d] / [smcubes_max:%03d]
+LocalGems=ЛОКАЛЬНО <img>stat:smcubes<img>: [smcubes_loc_coll:%02d] / [smcubes_loc_total:%02d]
 LocalTitle=[loc_title]
 
 [Collections]
-DesertRuins=DESERT RUINS
+DesertRuins=РУИНЫ В ПУСТЫНЕ
 FireRealm=LAIR OF THE HOLLOW KING
 IceCrossing=FROSTBITE PASS
 IceWorld=GLACIAL PALACE
@@ -58,7 +58,7 @@ CavesD=MIDLAND NOOK
 CavesI=FIRST ARC OF FIRE
 CavesJ=SECOND ARC OF FIRE
 CavesL=THE FOURTH CORNER
-CavesC=LOST KEY CAVES
+CavesC=ПЕЩЕРА ПОТЕРЯННЫХ КЛЮЧЕЙ
 CavesH=GLACIAL SHELF
 CavesF=SOUTHWEST NOOK
 DesertSprawlA=ARCADIAN'S CACHE
@@ -70,18 +70,18 @@ ForestB=MASHER WOODS
 ForestC=SYLVAN PATH
 GrassA=REVOLVER BRIDGE
 GrassB=LAKEWOOD BRIDGE
-GrassC=SOUTH BRIDGE
-GrassD=NORTH BRIDGE
+GrassC=ЮЖНЫЙ МОСТ
+GrassD=СЕВЕРНЫЙ МОСТ
 SnowTown=FOUR CORNERS LODGE
 SwampLake=BASIN RUNOFF
 SwampTown=DEEP ELM BASIN
 StyxTown=UNDERWORLD HOSTEL
 Lakewood=TOWN OF LAKEWOOD
-Stemmons=STEMMONS COMMUNITY
-FishingVillage=FISHING VILLAGE
-IceCave=HIGGINS HOVEL
-SpeedrunOldArcadia=OLD ARCADIA
-SpeedrunGallery=THE KING'S GALLERY
+Stemmons=ОБЩИНА СТЕММОНА
+FishingVillage=РЫБАЦКАЯ ДЕРЕВНЯ
+IceCave=ЛАЧУГА ХИГГИНСА
+SpeedrunOldArcadia=СТАРАЯ АРКАДИЯ
+SpeedrunGallery=КОРОЛЕВСКАЯ ГАЛЛЕРЕЯ
 SpeedrunBonehoard=THE BONEHOARD
 SpeedrunDreamscape=DREAMSCAPE
-SpeedrunLegacyCaves=CAVERNS OF LEGACY
+SpeedrunLegacyCaves=ПЕЩЕРА НАСЛЕДИЯ
