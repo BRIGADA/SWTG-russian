@@ -17,16 +17,16 @@ StyxPass=<img>stat:styxpass<img>
 Necklace=<img>stat:necklace<img>
 
 [Speedrun]
-Retry=РЕСТАРТ КУРСА
-RetryConfirm=ЭТО ВЕРНЁТ ВАС К НАЧАЛУ КУРСА И ВЫ ЛИШИТЕСЬ РЕЗУЛЬТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
-Exit=ВЫЙТИ ИЗ КУРСА
-ExitConfirm=ВЫ ВЫЙДЕТЕ ИЗ КУРСА И ЛИШИТЕСЬ РЕЗУЛЬТАТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
+Retry=РЕСТАРТ ТРАССЫ
+RetryConfirm=ЭТО ВЕРНЁТ ВАС К НАЧАЛУ ТРАССЫ И ВЫ ЛИШИТЕСЬ РЕЗУЛЬТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
+Exit=ПОКИНУТЬ ТРАССУ
+ExitConfirm=ВЫ ПОКИНЕТЕ ТРАССУ И ЛИШИТЕСЬ РЕЗУЛЬТАТА ТЕКУЩЕГО ЗАБЕГА. ВЫ УВЕРЕНЫ?
 Yes=ДА
 No=НЕТ
 Return=ВЕРНУТЬСЯ
 
 [FullMap]
-TotalGems=ВСЕГО <img>stat:smcubes<img>: [smcubes_total:%03d] / [smcubes_max:%03d]
+TotalGems=ВСЕГО    <img>stat:smcubes<img>: [smcubes_total:%03d] / [smcubes_max:%03d]
 LocalGems=ЛОКАЛЬНО <img>stat:smcubes<img>: [smcubes_loc_coll:%02d] / [smcubes_loc_total:%02d]
 LocalTitle=[loc_title]
 
