@@ -2,11 +2,11 @@
 Overworld=Вид карты
 
 [Gameplay]
-MoveLeft=Направо
-MoveRight=Налево
+MoveLeft=Идти налево
+MoveRight=Идти направо
 Jump=Прыжок
 JumpDown=Спыгнуть
-Interact=Читать / Говорить
+Interact=Читать / говорить
 Enter=Войти в дверь
 Status=Экран статуса
 FullMap=Открыть карту

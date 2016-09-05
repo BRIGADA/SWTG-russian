@@ -1,26 +1,26 @@
-﻿General=General
-Utility=Utility
-Menus=Menus
+﻿General=Основное
+Utility=Утилиты
+Menus=Меню
 VisOnly=VisOnly
 
 [General]
-Pause=Pause
+Pause=Пауза
 
 [Utility]
-OpenConsole=Open Console
-Screenshot=Save Screenshot
-DeviceRecognition=Device Recognition
+OpenConsole=Открыть консоль
+Screenshot=Сохранить снимок
+DeviceRecognition=Определение устройств
 
 [Menus]
-NavUp=Navigate Up
-NavDown=Navigate Down
-NavLeft=Navigate Left
-NavRight=Navigate Right
-NavNext=Navigate to Next
-Accept=Accept
-Cancel=Cancel
-Click=Click
-PrevTab=Previous Tab
-NextTab=Next Tab
-PageUp=Page Up
-PageDown=Page Down
+NavUp=Перейти вверх
+NavDown=Перейти вниз
+NavLeft=Перейти влево
+NavRight=Перейти вправо
+NavNext=Переход к следующему
+Accept=Принять
+Cancel=Отклонить
+Click=Клик
+PrevTab=Предыдущая вкладка
+NextTab=Следующая вкладка
+PageUp=Страница вверх
+PageDown=Страница вниз
