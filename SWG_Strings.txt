@@ -1,18 +1,18 @@
 ﻿[Locked Door]
-String0000=LOCKED
-String0001=USED THE SKELETON KEY
-String0002=YES
-String0003=UNLOCKED THE DOOR
-String0004=NO
-String0005=USE A KEY?
+String0000=ЗАКРЫТО
+String0001=ИСПОЛЬЗОВАТЬ КОСТЯНОЙ КЛЮЧ
+String0002=ДА
+String0003=ДВЕРЬ ОТКРЫТА
+String0004=НЕТ
+String0005=ИСПОЛЬЗОВАТЬ КЛЮЧ?
 
 [One Way Door Base]
-String0000=OPENED
-String0001=DOES NOT OPEN FROM THIS SIDE
+String0000=ОТКРЫТО
+String0001=НЕЛЬЗЯ ОТКРЫТЬ ДВЕРЬ С ЭТОЙ СТОРОНЫ
 
 [Arcadian]
-quest_opt_accept=ACCEPT
-quest_opt_decline=DECLINE
+quest_opt_accept=ПРИНЯТЬ
+quest_opt_decline=ОТКЛОНИТЬ
 String0000=[quest_opt_accept:loc]
 String0001=[quest_opt_decline:loc]
 
@@ -24,12 +24,12 @@ String0003=[opt_fortune_accept:loc]
 String0004=[opt_fortune_text:loc]
 String0005=[opt_fortune_decline:loc]
 String0006=[opt_fortune_prompt:loc]
-opt_fortune_accept=YES
-opt_fortune_decline=NO
+opt_fortune_accept=ДА
+opt_fortune_decline=НЕТ
 opt_fortune_prompt=WILL YOU READ FROM THE BOOK?
 opt_fortune_text=THIS IS WHAT WAS WRITTEN...
-opt_return_accept=YES
-opt_return_decline=NO
+opt_return_accept=ДА
+opt_return_decline=НЕТ
 opt_return_prompt=WILL YOU RETURN TO THE DUNGEON ENTRANCE?
 
 [Powerup Orb (Red Aura)]
@@ -42,20 +42,20 @@ String0000=YOU GOT {img:stat:blueaura}
 String0000=HELLO! I AM THE KEY LENDER.
 String0001=YOU OWE ME [debt] KEYS.
 String0002=YOU OWE ME [debt] KEY.
-String0003=YES
+String0003=ДА
 String0004=YOU LOST {img:stat:keys}
 String0005=YOUR DEBT IS NOW [debt] KEYS.
 String0006=YOUR DEBT IS NOW [debt] KEY.
 String0007=YOUR DEBT HAS BEEN REPAID.
-String0008=NO
+String0008=НЕТ
 String0009=MAYBE NEXT TIME.
 String0010=WOULD YOU LIKE TO RETURN A KEY?
 String0011=I CAN'T LEND YOU ANY KEYS RIGHT NOW.
-String0012=YES
+String0012=ДА
 String0013=YOU GOT {img:stat:keys}
 String0014=YOUR DEBT IS NOW [debt] KEYS.
 String0015=YOUR DEBT IS NOW [debt] KEY.
-String0016=NO
+String0016=НЕТ
 String0017=NO WORRIES, COME BACK ANYTIME!
 String0018=MORE INFO
 String0019=I CAN LEND YOU KEYS IF YOU HAVE NONE, BUT YOU WILL INCUR A DEBT. IT IS BETTER TO FIND KEYS IN THE FIELD IF YOU ARE ABLE.
@@ -82,7 +82,7 @@ String0016=WHAT'LL IT BE?
 
 [NPC (Fortune Teller)]
 String0000=HELLO! I AM THE FORTUNE TELLER.
-String0001=YES
+String0001=ДА
 String0002=YOU HAVE SPENT [playtimeseconds:time] IN THIS WORLD.
 String0003=YOU HAVE DIED [deathscount] TIME.
 String0004=YOU HAVE DIED [deathscount] TIMES.
@@ -111,7 +111,7 @@ String0026=COLLECT THE PIECES OF THE HOLLOW KING'S HEART.
 String0027=SOMEONE IN STEMMONS COMMUNITY KNOWS THE WAY. BE PERSISTENT.
 String0028=CONFRONT THE HOLLOW KING AT HIS LAIR IN THE FIRE REALM.
 String0029=COME BACK ANYTIME.
-String0030=NO
+String0030=НЕТ
 String0031=VERY WELL.
 String0032=WILL YOU HAVE YOUR FORTUNE TOLD?
 
@@ -153,7 +153,7 @@ String0000=THE DOOR OPENS TO YOUR TOUCH
 String0001=THIS DOOR BEARS A STRANGE SYMBOL. IT DOES NOT APPEAR TO OPEN.
 
 [Powerup Orb (Necklace)]
-String0000=YOU GOT {img:stat:necklace}
+String0000=ВЫ ПОЛУЧИЛИ {img:stat:necklace}
 
 [Heart Door]
 String0000=...
@@ -169,12 +169,12 @@ String0003=[opt_fortune_accept:loc]
 String0004=[opt_fortune_text:loc]
 String0005=[opt_fortune_decline:loc]
 String0006=[opt_fortune_prompt:loc]
-opt_fortune_accept=YES
-opt_fortune_decline=NO
+opt_fortune_accept=ДА
+opt_fortune_decline=НЕТ
 opt_fortune_prompt=WILL YOU READ FROM THE BOOK?
 opt_fortune_text=THIS IS WHAT WAS WRITTEN...
-opt_return_accept=YES
-opt_return_decline=NO
+opt_return_accept=ДА
+opt_return_decline=НЕТ
 opt_return_prompt=WILL YOU RETURN TO THE DUNGEON ENTRANCE?
 
 [Map Lock Switch]
@@ -193,35 +193,35 @@ String0007=HEY, THAT'S....THAT'S COOL TOO. WHATEVER.
 String0008=I MEAN, YOU DON'T HAVE TO...
 
 [NPC (Speedrun)]
-String0000=HELLO HELLO! WELCOME TO THE FANTABULOUS...
-String0001=~~~HALL OF SPEEDRUNS~~~
-String0002=GOTTA GO FAST.
+String0000=ПРИВЕТ-ПРИВЕТ! ДОБРО ПОЖАЛОВАТЬ К FANTABULOUS(!!!)...
+String0001=~~~ЗАЛ ЗАБЕГОВ НА СКОРОСТЬ~~~
+String0002=НАДО БЫТЬ БЫСТРЫМ.
 String0003=ХЕЙ-ХЕЙ! ДОБРО ПОЖАЛОВАТЬ НАЗАД!
 String0004=КОРОЛЕВСКАЯ ГАЛЕРЕЯ
 String0005=ЭТА ГАЛЕРЕЯ ЗАКРЫТА ДЛЯ ПУБЛИКИ ПОСЛЕ ЗАТОПЛЕНИЯ ЛАВОЙ.
-String0006=DREAMSCAPE NIGHTMARE
-String0007=YOU ARE GETTING VERY SLEEPY. NOW LET'S TAKE A LOOK INSIDE YOUR SUBCONSCIOUS...
-String0008=THE BONEHOARD
-String0009=THIS CREEPY COURSE WILL PUSH YOUR JUMPING SKILLS TO THEIR LIMITS. GOOD LUCK!
-String0010=OLD ARCADIA
-String0011=WE MODELED THIS COURSE AFTER THE ARCADIANS' DESCRIPTION OF THEIR HOMELAND.
-String0012=CAVERNS OF LEGACY
-String0013=A WAYFARER SUCH AS YOURSELF SHOULD FEEL RIGHT AT HOME IN THESE CAVES.
-String0014=MORE INFO
-String0015=THIS IS THE HALL OF SPEEDRUNS. WE OFFER SEVERAL COURSES FOR YOUR ENJOYMENT. THE GOAL IN EACH COURSE IS TO REACH THE END AS FAST AS POSSIBLE IN WHATEVER WAY YOU CAN.
-String0016=WE WILL SUPPLY ANY EQUIPMENT YOU NEED, AND YOU MAY FIND MORE GEAR ON SOME COURSES, SO DON'T WORRY IF YOU HAVEN'T EXPLORED THE WORLD THOROUGHLY YET.
-String0017=TO PREVENT CHEATING, WE ALSO HAVE TO ASK THAT YOU DON'T BRING YOUR CURRENT EQUIPMENT WITH YOU. DON'T WORRY, YOU'LL GET IT BACK ONCE YOU'VE COMPLETED THE COURSE!
-String0018=OUR COURSE ARCHITECT LEFT SEVERAL CUPS OF COFFEE LYING AROUND. IF YOU FIND ONE, YOU CAN DRINK IT TO GET A TEMPORARY SPEED BOOST!
-String0019=IF YOU GET STUCK ON A COURSE, YOU CAN LEAVE AT ANY TIME BY OPENING YOUR STATUS MENU AND SELECTING THE 'RESTART' OR 'EXIT' OPTION.
-String0020=WE KEEP TRACK OF THE BEST TIMES FOR EACH COURSE ON THE PANEL BEHIND ME. YOU CAN SELECT A RECORD ON THE BOARD TO RACE AGAINST THAT PLAYER'S GHOST. SPOOKY!
-String0021=WE KEEP TRACK OF THE BEST TIMES FOR EACH COURSE ON THE PANEL BEHIND ME. ONCE YOU'VE COMPLETED A COURSE, YOU'LL ALSO HAVE THE OPTION TO RACE YOUR GHOST. SPOOKY!
-String0022=LEAVE
-String0023=COME BACK SOON!
-String0024=WHICH COURSE WILL YOU ATTEMPT?
+String0006=DREAMSCAPE NIGHTMARE(!!!)
+String0007=ВАМ ОЧЕНЬ ХОЧЕТСЯ СПАТЬ. ТЕПЕРЬ ДАВАЙТЕ ВЗГЛЯНЕМ ВНУТРЬ ВАШЕГО ПОДСОЗНАНИЯ...
+String0008=THE BONEHOARD(!!!)
+String0009=ЭТА ЖУТКАЯ ТРАССА ДО ПРЕДЕЛА НАПРЯЖЁТ ВАШИ ПРЫГАТЕЛЬНЫЕ СПОСОБНОСТИ. УДАЧИ!
+String0010=СТАРАЯ АРКАДИЯ(!!!)
+String0011=МЫ СМОДЕЛИРОВАЛИ ЭТУ ТРАССУ ПОСЛЕ ТОГО, КАК АРКАДИАНЦЫ(!!!) ОПИСАЛИ СВОЮ РОДИНУ.
+String0012=ПЕЩЕРЫ НАСЛЕДИЯ
+String0013=В ЭТИХ ПЕЩЕРАХ ПУТНИКИ ВРОДЕ ВАС ДОЛЖНЫ ЧУВСТВОВАТЬ СЕБЯ КАК ДОМА.
+String0014=БОЛЬШЕ ИНФОРМАЦИИ
+String0015=ЭТО - ЗАЛ ЗАБЕГОВ НА СКОРОСТЬ. ДЛЯ ВАШЕГО УДОВОЛЬСТВИЯ МЫ ПРЕДЛАГАЕМ НЕСКОЛЬКО ТРАСС. ЦЕЛЬ В КАЖДОМ СЛУЧАЕ СОСТОИТ В ТОМ, ЧТОБЫ ДОСТИГНУТЬ КОНЦА МАКСИМАЛЬНО БЫСТРО ЛЮБЫМ ДОСТУПНЫМ ВАМ СПОСОБОМ.
+String0016=МЫ ПРЕДОСТАВИМ ВСЁ НЕОБХОДИМОЕ ВАМ СНАРЯЖЕНИЕ, ИНОГДА ДАЖЕ С ИЗБЫТКОМ, ПОЭТОМУ НЕ ВОЛНУЙТЕСЬ ИЗ-ЗА НЕ ПОЛНОСТЬЮ ИССЛЕДОВАННОГО МИРА.
+String0017=ДЛЯ ПРЕДОТВРАЩЕНИЯ НЕЧЕСТНОЙ ИГРЫ, МЫ ТАКЖЕ ПРОСИМ НЕ ПРОНОСИТЬ С СОБОЙ ВАШЕ ТЕКУЩЕЕ СНАРЯЖЕНИЕ. НЕ ВОЛНУЙТЕСЬ, ВЫ ПОЛУЧИТЕ ЕГО ОБРАТНО ПРИ ЗАВЕРШЕНИИ ТРАССЫ!
+String0018=НАШ АРХИТЕКТОР ТРАСС РАСМЕСТИЛ НА НИХ НЕСКОЛЬКО ЧАЖЕК КОФЕ. ЕСЛИ ВЫ НАЙДЁТЕ И ВЫПЬЕТЕ ОДНУ ИЗ НИХ, ТО ПОЛУЧИТЕ ВРЕМЕННОЕ УВЕЛИЧЕНИЕ СКОРОСТИ!
+String0019=ЕСЛИ ВЫ ЗАСТРЯНЕТЕ НА ТРАССЕ, ТО СМОЖЕТЕ В ЛЮБОЕ ВРЕМЯ ПОКИНУТЬ ЕЁ. ДЛЯ ЭТОГО НЕОБХОДИМО ОТКРЫТЬ МЕНЮ СТАТУСА И ВЫБРАТЬ 'ПЕРЕЗАПУСК' ИЛИ 'ВЫХОД'.
+String0020=МЫ ОТСЛЕЖИВАЕМ НАИЛУЧШЕЕ ВРЕМЯ ДЛЯ КАЖДОЙ ТРАССЫ НА ТАБЛО ПОЗАДИ МЕНЯ. ВЫ МОЖЕТЕ ВЫБРАТЬ РЕКОРДНОЕ ВРЕМЯ НА ТАБЛО И ПРОБЕЖАТЬ ВМЕСТЕ С ПРИЗРАКОМ ИГРОКА. ЖУ-У-УТЬ!
+String0021=МЫ ОТСЛЕЖИВАЕМ НАИЛУЧШЕЕ ВРЕМЯ ДЛЯ КАЖДОЙ ТРАССЫ НА ТАБЛО ПОЗАДИ МЕНЯ. КАК ТОЛЬКО ВЫ ЗАКОНЧИТЕ ТРАССУ, У ВАС ПОЯВИТСЯ ВОЗМОЖНОСТЬ ПРОБЕЖАТЬ С ПРИЗРАКОМ САМОГО СЕБЯ. ЖУ-У-УТЬ!
+String0022=ПОКИНУТЬ
+String0023=ВОЗВРАЩАЙСЯ СКОРЕЕ!
+String0024=КАКУЮ ТРАССУ ХОТИТЕ ПОПРОБОВАТЬ?
 
 [Speedrun Finish Tripwire]
-String0000=YOU SET A NEW RECORD!
-String0001=YOUR PREVIOUS RECORD WAS FASTER.
+String0000=ВЫ УСТАНОВИЛИ НОВЫЙ РЕКОРД!
+String0001=ВАШ ПРЕДЫДУЩИЙ РЕКОРД БЫЛ ЛУЧШЕ.
 
 [5e9a5ebc]
 String0000=I REMEMBER THIS PLACE AS IF IN A DREAM...
@@ -478,10 +478,10 @@ String0000=I LOCKED SOMETHING GOOD IN THE BASEMENT.
 String0000=I THOUGHT I SAW A RAT AROUND HERE.
 
 [6ab9bc47]
-String0000=YES
+String0000=ДА
 String0001=YOU GOT {img:stat:keys}
 String0002=USE IT WELL!
-String0003=NO
+String0003=НЕТ
 String0004=OKAY, I'LL HANG ON TO IT.
 String0005=I FOUND A KEY ON THE FLOOR. WOULD YOU LIKE IT?
 String0006=KEYS MUST BE RETURNED TO THE LENDERS THEY WERE BORROWED FROM.
@@ -591,8 +591,8 @@ String0000=TO THE LAIR OF THE HOLLOW KING
 String0000=PLEASE DO NOT READ THIS SIGN.
 
 [17761d87]
-quest_opt_accept=YES
-quest_opt_decline=NO
+quest_opt_accept=ДА
+quest_opt_decline=НЕТ
 String0002=I HAVE NO MORE QUESTS FOR YOU.
 String0003=AH, THANK YOU! THIS ORB WILL BE PERFECT FOR MY RESEARCH!
 String0004=HERE IS THE REWARD I PROMISED YOU.
@@ -690,8 +690,8 @@ String0000=I GAVE UP TRYING TO FIND THE TREASURE IN THIS RUIN.
 String0000=THE STRANGE MAN IN THE NEXT ROOM WILL TALK YOUR EAR OFF IF YOU LET HIM.
 
 [4b40e32e]
-quest_opt_accept=YES
-quest_opt_decline=NO
+quest_opt_accept=ДА
+quest_opt_decline=НЕТ
 String0002=I HAVE NO MORE TO OFFER.
 String0003=SEEK MY KIN IN EVERY CORNER OF THE WORLD. THEY WILL AID YOU IN YOUR JOURNEY.
 String0004=REMEMBER, HEAD NORTH TO THE FIRST DUNE, THEN EAST AS FAR AS YOUR LEGS WILL CARRY YOU.
@@ -769,12 +769,12 @@ String0000=TO SUBCON
 
 [5c542e5a]
 String0000=(THE ARCADIAN IS FROZEN SOLID.)
-String0001=YES
+String0001=ДА
 String0002=THE NOTE SAYS:
 String0003="WAYFARER, I FEAR I AM NOT LONG FOR THIS WORLD.
 String0004="I PASS FROM THIS REALM TO REJOIN MY KIN AMONG THE STARS.
 String0005="THE TREASURE OF THESE CAVERNS WILL CARRY YOU TO GREAT HEIGHTS."
-String0006=NO
+String0006=НЕТ
 String0007=(THERE IS A NOTE IN HIS HAND. WILL YOU READ IT?)
 
 [5f7f3ab1]
@@ -857,8 +857,8 @@ String0001=VISIBILITY IS BAD, BUT IF YOU KEEP MOVING, YOU'LL MAKE IT THROUGH.
 String0000=DID YOU SEE MY PENGUIN OUTSIDE? SHE'S SHY.
 
 [7c170019]
-quest_opt_accept=YES
-quest_opt_decline=NO
+quest_opt_accept=ДА
+quest_opt_decline=НЕТ
 String0002=WHAT A DOWNER.
 String0003=OH NO! I'M SO SORRY. I WAS HOPING TO COMPARE NOTES WITH HIM NEXT TIME HE WAS IN TOWN.
 String0004=HERE, TAKE THIS FOR YOUR TROUBLES.
@@ -879,8 +879,8 @@ String0000=STAY WARM!
 String0000=STARLIGHT TERRACE
 
 [5bc2270b]
-quest_opt_accept=YES
-quest_opt_decline=NO
+quest_opt_accept=ДА
+quest_opt_decline=НЕТ
 String0002=IT'S SO PEACEFUL UP HERE.
 String0003=BEFORE THEY WERE EXILED HERE, THE ARCADIANS LIVED AMONG THE STARS.
 String0004=DOESN'T THAT SOUND EXCITING?
@@ -947,8 +947,8 @@ String0000=TO SUBCON
 String0000=NOT ONE STEP CLOSER, WAYFARER!
 
 [0f90ae0f]
-String0000=NO.
-String0001=NO!
+String0000=НЕТ.
+String0001=НЕТ!
 String0002=STAY AWAY!
 
 [0f9ca03b]
@@ -983,14 +983,14 @@ String0001=AWW, YOU DIDN'T? I TOTALLY WOULD'VE!
 
 [0fffa46e]
 String0000=YOUR JOURNEY IS AT ITS END, WAYFARER.
-String0001=YES
+String0001=ДА
 String0002=UNDERSTAND THERE IS NO GLORY IN WHAT WE DO.
 String0003=THERE WILL BE NO SONGS WRITTEN IN OUR PRAISE.
 String0004=THE BOOKS WILL NOT KNOW OUR NAMES.
 String0005=BUT WHEN YOU SLEEP, WHEN YOU DREAM, YOU WILL RECALL OUR FACES.
 String0006=THAT IS ALL THAT WE CAN HOPE FOR AND ALL THAT WE ASK.
 String0007=GO NOW.
-String0008=NO
+String0008=НЕТ
 String0009=I WILL BE WAITING.
 String0010=ARE YOU READY TO GO?
 
@@ -1017,7 +1017,7 @@ String0006=WELP.
 String0007=THIS WAS A BAD IDEA.
 String0008=HOW ABOUT A TRUCE, ALL RIGHT? YOU LET ME HIDE OUT IN MY SWELL UNDERWORLD CAVE HERE, AND I'LL CAST A SPELL ON YOU THAT WILL...OH, I DON'T KNOW...LET YOU SOAR THROUGH THE SKIES?
 String0009=WHAT DO YOU SAY?
-String0010=YES
+String0010=ДА
 String0011=YOU WON'T REGRET IT!
 String0012=NOW LET ME SEE IF I REMEMBER THOSE MAGIC WORDS...
 String0013=...
@@ -1026,7 +1026,7 @@ String0015=BOOGITY BOOGITY BLOBBITY BLAM!
 String0016=UH, SOMETHING SOMETHING...ALAKAZAM!
 String0017=...
 String0018=ALL RIGHT, THAT PROBABLY WORKED. GO TRY IT OUT!
-String0019=NO
+String0019=НЕТ
 String0020=SUIT YOURSELF. I'M NOT BUDGING.
 
 [4e185df2]
@@ -1064,17 +1064,17 @@ String0000=I HAD A DREAM THAT YOU WOULD BE OKAY.
 String0001=PLEASE DON'T PROVE ME WRONG.
 
 [15ee7d34]
-String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0000=ДОБРО ПОЖАЛОВАТЬ НА ТРАССУ ЗАБЕГА НА СКОРОСТЬ!
 String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
 String0002=УДАЧИ!
 
 [0cb1f7cf]
-String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0000=ДОБРО ПОЖАЛОВАТЬ НА ТРАССУ ЗАБЕГА НА СКОРОСТЬ!
 String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
 String0002=УДАЧИ!
 
 [31654a7f]
-String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0000=ДОБРО ПОЖАЛОВАТЬ НА ТРАССУ ЗАБЕГА НА СКОРОСТЬ!
 String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
 String0002=УДАЧИ!
 
@@ -1150,7 +1150,7 @@ String0000=THERE WAS A TALLY MARK HERE. IT'S GONE NOW.
 String0000=GOSH.
 
 [65efdf52]
-String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0000=ДОБРО ПОЖАЛОВАТЬ НА ТРАССУ ЗАБЕГА НА СКОРОСТЬ!
 String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
 String0002=УДАЧИ!
 
@@ -1158,7 +1158,7 @@ String0002=УДАЧИ!
 String0000=I'D RATHER OBSERVE THAN STRUCTURE A NARRATIVE.
 
 [7e6dfaa4]
-String0000=ДОБРО ПОЖАЛОВАТЬ В КУРС ЗАБЕГА НА СКОРОСТЬ!
+String0000=ДОБРО ПОЖАЛОВАТЬ НА ТРАССУ ЗАБЕГА НА СКОРОСТЬ!
 String0001=ЧАСЫ ЗАПУСТЯТСЯ ПОСЛЕ ВХОДА В ПОРТАЛ.
 String0002=УДАЧИ!
 
